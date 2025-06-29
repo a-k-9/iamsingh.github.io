@@ -27,19 +27,32 @@ Strong Communication & Cross-Functional Team Leadersh
 ### certification
 
 Name	Url	Authority	Started On	Finished On	License Number
-Introduction to Data Analysis using Excel	https://courses.edx.org/certificates/b1e5c48decf849aba7190c3715180d8a	Microsoft	May-19		b1e5c48decf849aba7190c3715180d8a
-Excel for Business Analysts	https://alison.com/certification/check/%242y%2410%24fOM00QiRUgbBA069eYwTQenTef2Aod7wbYM47w2FIqJOsIHmGvnnK	Alison - Free Online Learning	May-21		3169-17961289
-Excel for Financial Modeling	http://credentials.corporatefinanceinstitute.com/48081084-2970-4bc7-92ae-276cccb2f0f3	Corporate Finance InstituteÂ® (CFI)	May-21		32322642
-Excel Fundamentals for Data Analysis	https://www.coursera.org/account/accomplishments/certificate/AKNHLNZPMU4W	Macquarie University	May-21		AKNHLNZPMU4W
-Certified Scrum Product OwnerÂ® (CSPOÂ®)	https://bcert.me/skdodngdo	Scrum Alliance	Aug-22	Aug-24	1634726
-Professional Scrum Product Owner I	https://www.credly.com/badges/68011117-4445-4a57-8a9e-f0744984929a	Scrum.org	Nov-24		68011117-4445-4a57-8a9e-f0744984929a
-ECBA prep IIBA	https://techedge.techcanvass.co/Certificate/MzYzMDAtMjI=/AmtSingh	Techcanvass	Mar-23		MzYzMDAtMjI
-Profesional scrum master advanced (||)	https://www.credly.com/badges/5fc97c4c-b76f-4eb9-b62b-527bd3bebb65/public_url	Scrum.org	Dec-24		5fc97c4c-b76f-4eb9-b62b-527bd3bebb65
-ICAgile Certified Professional	https://www.icagile.com/credentials/2c8e35eb-f7a5-4e43-9672-a30cf7645f5f	ICAgile	Jan-25		2c8e35eb-f7a5-4e43-9672-a30cf7645f5f
-Get started with Mural	https://www.coursera.org/account/accomplishments/records/GBHHWPWJZ65A	Coursera Project Network	Mar-25		GBHHWPWJZ65A
+
 Data Viz Using Tableau & Presenting With Storytelling	https://www.coursera.org/account/accomplishments/verify/NG1E8TNIGKSZ	University of Pennsylvania	Jun-25		NG1E8TNIGKSZ
+
 Product management 	https://www.coursera.org/account/accomplishments/certificate/49NE8XNRNL53	University System of Maryland	Jun-25		49NE8XNRNL53
 ![Uploading image.png…]()
+
+Introduction to Data Analysis using Excel	https://courses.edx.org/certificates/b1e5c48decf849aba7190c3715180d8a	Microsoft	May-19		b1e5c48decf849aba7190c3715180d8a
+
+Excel for Business Analysts	https://alison.com/certification/check/%242y%2410%24fOM00QiRUgbBA069eYwTQenTef2Aod7wbYM47w2FIqJOsIHmGvnnK	Alison - Free Online Learning	May-21		3169-17961289
+
+Excel for Financial Modeling	http://credentials.corporatefinanceinstitute.com/48081084-2970-4bc7-92ae-276cccb2f0f3	Corporate Finance InstituteÂ® (CFI)	May-21		32322642
+
+Excel Fundamentals for Data Analysis	https://www.coursera.org/account/accomplishments/certificate/AKNHLNZPMU4W	Macquarie University	May-21		AKNHLNZPMU4W
+
+Certified Scrum Product OwnerÂ® (CSPOÂ®)	https://bcert.me/skdodngdo	Scrum Alliance	Aug-22	Aug-24	1634726
+
+Professional Scrum Product Owner I	https://www.credly.com/badges/68011117-4445-4a57-8a9e-f0744984929a	Scrum.org	Nov-24		68011117-4445-4a57-8a9e-f0744984929a
+
+ECBA prep IIBA	https://techedge.techcanvass.co/Certificate/MzYzMDAtMjI=/AmtSingh	Techcanvass	Mar-23		MzYzMDAtMjI
+
+Profesional scrum master advanced (||)	https://www.credly.com/badges/5fc97c4c-b76f-4eb9-b62b-527bd3bebb65/public_url	Scrum.org	Dec-24		5fc97c4c-b76f-4eb9-b62b-527bd3bebb65
+
+ICAgile Certified Professional	https://www.icagile.com/credentials/2c8e35eb-f7a5-4e43-9672-a30cf7645f5f	ICAgile	Jan-25		2c8e35eb-f7a5-4e43-9672-a30cf7645f5f
+
+Get started with Mural	https://www.coursera.org/account/accomplishments/records/GBHHWPWJZ65A	Coursera Project Network	Mar-25		GBHHWPWJZ65A
+
 
 
 ### Summary
