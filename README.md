@@ -26,116 +26,21 @@ Strong Communication & Cross-Functional Team Leadersh
 
 ### certification
 
-Data Viz Using Tableau & Presenting With Storytelling
-Data Viz Using Tableau & Presenting With Storytelling
-Data Viz Using Tableau & Presenting With Storytelling
-University of PennsylvaniaUniversity of Pennsylvania
-Issued Jun 2025Issued Jun 2025
-Credential ID NG1E8TNIGKSZCredential ID NG1E8TNIGKSZ
-Show credential
-University System of Maryland logo
-Product management 
-Product management 
-University System of MarylandUniversity System of Maryland
-Issued Jun 2025Issued Jun 2025
-Credential ID 49NE8XNRNL53Credential ID 49NE8XNRNL53
-Show credential
-Skills: Product Management · product manager
-Skills: Product Management · product manager
-Get started with Mural
-Get started with Mural
-Get started with Mural
-Coursera Project NetworkCoursera Project Network
-Issued Feb 2025Issued Feb 2025
-Credential ID GBHHWPWJZ65ACredential ID GBHHWPWJZ65A
-Show credential
-ICAgile logo
-ICAgile Certified Professional
-ICAgile Certified Professional
-ICAgileICAgile
-Issued Jan 2025Issued Jan 2025
-Credential ID 2c8e35eb-f7a5-4e43-9672-a30cf7645f5fCredential ID 2c8e35eb-f7a5-4e43-9672-a30cf7645f5f
-Show credential
-Skills: Agile Methodologies · Scrum · Agile Project Management · Agile Leadership · Agile Coaching
-Skills: Agile Methodologies · Scrum · Agile Project Management · Agile Leadership · Agile Coaching
+Name	Url	Authority	Started On	Finished On	License Number
+Introduction to Data Analysis using Excel	https://courses.edx.org/certificates/b1e5c48decf849aba7190c3715180d8a	Microsoft	May-19		b1e5c48decf849aba7190c3715180d8a
+Excel for Business Analysts	https://alison.com/certification/check/%242y%2410%24fOM00QiRUgbBA069eYwTQenTef2Aod7wbYM47w2FIqJOsIHmGvnnK	Alison - Free Online Learning	May-21		3169-17961289
+Excel for Financial Modeling	http://credentials.corporatefinanceinstitute.com/48081084-2970-4bc7-92ae-276cccb2f0f3	Corporate Finance InstituteÂ® (CFI)	May-21		32322642
+Excel Fundamentals for Data Analysis	https://www.coursera.org/account/accomplishments/certificate/AKNHLNZPMU4W	Macquarie University	May-21		AKNHLNZPMU4W
+Certified Scrum Product OwnerÂ® (CSPOÂ®)	https://bcert.me/skdodngdo	Scrum Alliance	Aug-22	Aug-24	1634726
+Professional Scrum Product Owner I	https://www.credly.com/badges/68011117-4445-4a57-8a9e-f0744984929a	Scrum.org	Nov-24		68011117-4445-4a57-8a9e-f0744984929a
+ECBA prep IIBA	https://techedge.techcanvass.co/Certificate/MzYzMDAtMjI=/AmtSingh	Techcanvass	Mar-23		MzYzMDAtMjI
+Profesional scrum master advanced (||)	https://www.credly.com/badges/5fc97c4c-b76f-4eb9-b62b-527bd3bebb65/public_url	Scrum.org	Dec-24		5fc97c4c-b76f-4eb9-b62b-527bd3bebb65
+ICAgile Certified Professional	https://www.icagile.com/credentials/2c8e35eb-f7a5-4e43-9672-a30cf7645f5f	ICAgile	Jan-25		2c8e35eb-f7a5-4e43-9672-a30cf7645f5f
+Get started with Mural	https://www.coursera.org/account/accomplishments/records/GBHHWPWJZ65A	Coursera Project Network	Mar-25		GBHHWPWJZ65A
+Data Viz Using Tableau & Presenting With Storytelling	https://www.coursera.org/account/accomplishments/verify/NG1E8TNIGKSZ	University of Pennsylvania	Jun-25		NG1E8TNIGKSZ
+Product management 	https://www.coursera.org/account/accomplishments/certificate/49NE8XNRNL53	University System of Maryland	Jun-25		49NE8XNRNL53
+![Uploading image.png…]()
 
-ICAgile Certified Professional - Agile Coaching.jpgICAgile Certified Professional - Agile Coaching.jpg
-ICAgile Certified Professional - Agile CoachingICAgile Certified Professional - Agile Coaching
-Scrum.org logo
-Profesional scrum master advanced (||)
-Profesional scrum master advanced (||)
-Scrum.orgScrum.org
-Issued Dec 2024Issued Dec 2024
-Credential ID 5fc97c4c-b76f-4eb9-b62b-527bd3bebb65Credential ID 5fc97c4c-b76f-4eb9-b62b-527bd3bebb65
-Show credential
-Skills: Scrum · Agile Methodologies
-Skills: Scrum · Agile Methodologies
-
-PSM II.jpgPSM II.jpg
-Scrum.org logo
-Professional Scrum Product Owner I
-Professional Scrum Product Owner I
-Scrum.orgScrum.org
-Issued Nov 2024Issued Nov 2024
-Credential ID 68011117-4445-4a57-8a9e-f0744984929aCredential ID 68011117-4445-4a57-8a9e-f0744984929a
-Show credential
-Skills: Scrum · Agile Methodologies · Scaled Agile Framework · Agile Project Management · Agile & Waterfall Methodologies · Agile Leadership · agile
-Skills: Scrum · Agile Methodologies · Scaled Agile Framework · Agile Project Management · Agile & Waterfall Methodologies · Agile Leadership · agile
-
-PSPO1PSPO1
-Techcanvass logo
-ECBA prep IIBA
-
-TechcanvassTechcanvass
-Issued Mar 2023Issued Mar 2023
-Credential ID MzYzMDAtMjICredential ID MzYzMDAtMjI
-Show credential
-Skills: Business Analysis · IIBA · Cbap
-
-
-ECBA certification prepECBA certification prep
-Macquarie University logo
-Excel Fundamentals for Data Analysis
-
-Macquarie UniversityMacquarie University
-Issued May 2021Issued May 2021
-Credential ID AKNHLNZPMU4WCredential ID AKNHLNZPMU4W
-Show credential
-
-Skills: Microsoft Excel · Excel · Analytical Skills · Microsoft Office · Data Analysis · Statistical Data Analysis · Data Management · Data Migration
-Alison logo
-Excel for Business Analysts
-
-AlisonAlison
-Issued May 2021Issued May 2021
-Credential ID 3169-17961289Credential ID 3169-17961289
-Show credential
-Skills: Business Analytics · Business Analysis
-Skills: Business Analytics · Business Analysis
-Corporate Finance Institute® (CFI) logo
-Excel for Financial Modeling
-Excel for Financial Modeling
-Corporate Finance Institute® (CFI)Corporate Finance Institute® (CFI)
-Issued May 2021Issued May 2021
-Credential ID 32322642Credential ID 32322642
-Show credential
-Skills: Business Analytics
-Skills: Business Analytics
-Introduction to Data Analysis using Excel
-
-MicrosoftMicrosoft
-Issued May 2019Issued May 2019
-Credential ID b1e5c48decf849aba7190c3715180d8aCredential ID b1e5c48decf849aba7190c3715180d8a
-Show credential
-Skills: Microsoft Excel · Microsoft SQL Server · Data Analysis · Data Migration · Data Modeling · Data 
-Skills: Microsoft Excel · Microsoft SQL Server · Data Analysis · Data Migration · Data Modeling · Data 
-Scrum Alliance logo
-Certified Scrum Product Owner® (CSPO®)
-Certified Scrum Product Owner® (CSPO®)
-Scrum AllianceScrum Alliance
-Issued Aug 2022 · Expired Aug 2024Issued Aug 2022 · Expired Aug 2024
-Credential ID 1634726Credential ID 1634726
-Show credential
 
 ### Summary
 With 13+ years of experience as a Business Analyst, Business Intelligence professional, Product Owner, and Scrum Master, I have successfully contributed to numerous banking and financial projects, ensuring seamless alignment between business and technical requirements. My background encompasses business process analysis, system design, requirements gathering, and UAT coordination, coupled with advanced proficiency in tools like Jira, Confluence, SQL, and Excel.
