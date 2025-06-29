@@ -1,6 +1,10 @@
 # Techno Functional | Lead Business Analyst | Product Owner | Data Analyst | CSPO |PSPO| PSM II|SAFe|ICP-ACC|CSM
 
-##
+### Skills & Tools:
+
+Business Process Analysis, System Design, Requirements Gathering, UAT Coordination
+
+Agile Methodologies (SAFe, Scrum)
 
 ### Education
 •	Bachelor of engineering (ECE), APS COLLEGE OF ENGINEERING, Visvesvaraya Technological University (VTU), 2006, 74.6% 
@@ -27,11 +31,7 @@ I’m results-oriented, dedicated, and adaptable—able to work independently or
 
 Let’s connect and explore how I can bring my techno-functional expertise to your team!
 
-Skills & Tools:
 
-Business Process Analysis, System Design, Requirements Gathering, UAT Coordination
-
-Agile Methodologies (SAFe, Scrum)
 
 SQL, Excel, Qlikview, SSIS, JIRA, Confluence, Tableau, ETL, AWS, Glue,S3, R program, python
 
