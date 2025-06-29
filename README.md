@@ -1,13 +1,13 @@
-#Techno Functional | Lead Business Analyst | Product Owner | Data Analyst | CSPO |PSPO| PSM II|SAFe|ICP-ACC|CSM
+# Techno Functional | Lead Business Analyst | Product Owner | Data Analyst | CSPO |PSPO| PSM II|SAFe|ICP-ACC|CSM
 
 ##
 
-###Education
+### Education
 •	Bachelor of engineering (ECE), APS COLLEGE OF ENGINEERING, Visvesvaraya Technological University (VTU), 2006, 74.6% 
 •	Higher secondary (10+2), Rajkamal Saraswati Vidya Mandir, Central Board of Secondary Education (CBSE), 2001, 71%
 •	Matriculation (10th), Indian School of Learning, Central Board of Secondary Education (CBSE), 1999, 73%
 
-###Work experience
+### Work experience
 •	Citicorp services India ltd, AVP , Oct 23 – Apr25
 •	Persistent (client DB) – Lead business analyst , July22 – Oct23 
 •	Standard Chartered Global Business Services, SrManager BA, Feb 20 - June22, Bangalore, India
@@ -16,7 +16,7 @@
 •	Zensar Technologies (client SILICA), Software Engineer, Dec 09 - Feb12, Pune, India
 
 
-###Summary
+### Summary
 With 13+ years of experience as a Business Analyst, Business Intelligence professional, Product Owner, and Scrum Master, I have successfully contributed to numerous banking and financial projects, ensuring seamless alignment between business and technical requirements. My background encompasses business process analysis, system design, requirements gathering, and UAT coordination, coupled with advanced proficiency in tools like Jira, Confluence, SQL, and Excel.
 
 I am passionate about driving Agile initiatives and supporting cross-functional teams in delivering high-quality, timely solutions. My certifications, including SAFe, ICagile ICP-ACC, PSPO 1, CSPO, Advanced PSM 2, and CSM, have equipped me with a robust understanding of Agile frameworks, helping me foster collaboration and ensure project success within scope, time, and budget.
